@@ -4,3 +4,4 @@
 
 https://webinars.nordicsemi.com/webinars 
 
+This project includes five examples. Select which example to work with by changing #define EXAMPLE_NUMBER at the top. 
