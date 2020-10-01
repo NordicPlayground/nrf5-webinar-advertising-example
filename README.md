@@ -6,8 +6,7 @@ https://webinars.nordicsemi.com/webinars
 
 This project includes five examples. Select which example to work with by changing #define EXAMPLE_NUMBER at the top. 
 
-The Original README.md file below:
-
+The Original README.rst file below:
 .. _bluetooth-scan-adv-sample:
 
 Bluetooth: Scan & Advertise
