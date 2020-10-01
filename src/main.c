@@ -21,7 +21,7 @@
   EXAMPLE_NUMBER 4: Scan response, send more data (128-bit UUID)
   EXAMPLE_NUMBER 5: Connectable
 */
-#define EXAMPLE_NUMBER 2
+#define EXAMPLE_NUMBER 1
 
 
 #if EXAMPLE_NUMBER >= 2
